@@ -1,0 +1,82 @@
+[
+    {
+        "label": "Money Coins Calculator",
+        "id": "coins-calculator",
+        "youtube": "",
+        "repo": "https://github.com/jacobschnettler/ap-csp/blob/main/changeCalculator.js",
+        "previews": [],
+        "description": ""
+    },
+    {
+        "label": "Craps Game",
+        "id": "craps-game",
+        "youtube": "",
+        "repo": "https://github.com/jacobschnettler/ap-csp/blob/main/craps.js",
+        "previews": [],
+        "description": ""
+    },
+    {
+        "label": "Days Alive Calculator",
+        "id": "days-alive-calculator",
+        "youtube": "",
+        "repo": "https://github.com/jacobschnettler/ap-csp/blob/main/daysAliveCalculator.js",
+        "previews": [],
+        "description": ""
+    },
+    {
+        "label": "Easter Day Calculator",
+        "id": "easter-day-calculator",
+        "youtube": "",
+        "repo": "https://github.com/jacobschnettler/ap-csp/blob/main/easterCalculator.js",
+        "previews": [],
+        "description": ""
+    },
+    {
+        "label": "Hi Lo Game",
+        "id": "hi-lo-game",
+        "youtube": "",
+        "repo": "https://github.com/jacobschnettler/ap-csp/blob/main/hiLo.js",
+        "previews": [],
+        "description": ""
+    },
+    {
+        "label": "Karel Fills Rows",
+        "id": "karel-fills-rows",
+        "youtube": "",
+        "repo": "https://github.com/jacobschnettler/ap-csp/blob/main/karelFillRows.js",
+        "previews": [],
+        "description": ""
+    },
+    {
+        "label": "Karel Searches Rows",
+        "id": "karel-searches-rows",
+        "youtube": "",
+        "repo": "https://github.com/jacobschnettler/ap-csp/blob/main/karelSearching.js",
+        "previews": [],
+        "description": ""
+    },
+    {
+        "label": "Karel Spells Java",
+        "id": "karel-spells-java",
+        "youtube": "",
+        "repo": "https://github.com/jacobschnettler/ap-csp/blob/main/karelSpellsJava.js",
+        "previews": [],
+        "description": ""
+    },
+    {
+        "label": "Printing Labels App",
+        "id": "printing-labels-app",
+        "youtube": "",
+        "repo": "https://github.com/jacobschnettler/ap-csp/blob/main/printingLabels.js",
+        "previews": [],
+        "description": ""
+    },
+    {
+        "label": "Volume Calculator",
+        "id": "volume-calculator",
+        "youtube": "",
+        "repo": "https://github.com/jacobschnettler/ap-csp/blob/main/volumeCalculator.js",
+        "previews": [],
+        "description": ""
+    }
+]
