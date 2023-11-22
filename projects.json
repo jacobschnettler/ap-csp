@@ -1,5 +1,13 @@
 [
     {
+        "label": "Police Sketch Program",
+        "id": "police-sketch",
+        "youtube": "",
+        "repo": "https://github.com/jacobschnettler/ap-csp/blob/main/policeSketchProgram.js",
+        "previews": [],
+        "description": ""
+    },
+    {
         "label": "Money Coins Calculator",
         "id": "coins-calculator",
         "youtube": "",
