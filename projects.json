@@ -86,5 +86,12 @@
         "repo": "https://github.com/jacobschnettler/ap-csp/blob/main/volumeCalculator.js",
         "previews": [],
         "description": ""
+    },
+    {
+        "Label": "Array Practice",
+        "id": "array-practice",
+        "repo": "https://github.com/jacobschnettler/ap-csp/blob/main/arrayPractice.js",
+        "previews": [],
+        "description": ""
     }
 ]
