@@ -1,5 +1,12 @@
 [
     {
+        "label": "Array Practice",
+        "id": "array-practice",
+        "repo": "https://github.com/jacobschnettler/ap-csp/blob/main/arrayPractice.js",
+        "previews": [],
+        "description": ""
+    },
+    {
         "label": "Police Sketch Program",
         "id": "police-sketch",
         "youtube": "",
@@ -84,13 +91,6 @@
         "id": "volume-calculator",
         "youtube": "",
         "repo": "https://github.com/jacobschnettler/ap-csp/blob/main/volumeCalculator.js",
-        "previews": [],
-        "description": ""
-    },
-    {
-        "Label": "Array Practice",
-        "id": "array-practice",
-        "repo": "https://github.com/jacobschnettler/ap-csp/blob/main/arrayPractice.js",
         "previews": [],
         "description": ""
     }
