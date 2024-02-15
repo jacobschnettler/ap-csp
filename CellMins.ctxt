@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CellMins()
+comment1.params=_minutesUsed\ _totalMinutesAvailable
+comment1.target=CellMins(int,\ int)
+comment10.params=b
+comment10.target=int\ compareTo(CellMins)
+comment10.text=\r\n\ \ \ \ public\ CellMins\ copy()\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ return\ new\ CellMins(minutesUsed,\ totalMinutesAvailable);\r\n\ \ \ \ }\r\n
+comment2.params=copy
+comment2.target=CellMins(CellMins)
+comment3.params=
+comment3.target=int\ getUsedMins()
+comment4.params=
+comment4.target=int\ getAllowedMins()
+comment5.params=allowedMins
+comment5.target=void\ setAllowedMins(int)
+comment6.params=
+comment6.target=void\ reset()
+comment7.params=
+comment7.target=int\ getMinsRemaining()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=b
+comment9.target=boolean\ equals(CellMins)
+numComments=11
