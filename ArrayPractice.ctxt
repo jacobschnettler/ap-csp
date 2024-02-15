@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=anyArray
+comment0.target=void\ outputVert(double[])
+comment1.params=anyArray
+comment1.target=void\ outputHorizontal(double[])
+comment2.params=anyArray
+comment2.target=double[]\ addTen(double[])
+comment3.params=anyArray
+comment3.target=double\ getSum(double[])
+comment4.params=anyArray
+comment4.target=double\ getAverage(double[])
+comment5.params=anyArray
+comment5.target=int\ countNegitives(double[])
+comment6.params=anyArray
+comment6.target=double\ getLowest(double[])
+comment7.params=anyArray
+comment7.target=java.lang.String\ outputLetterGrades(double[])
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
