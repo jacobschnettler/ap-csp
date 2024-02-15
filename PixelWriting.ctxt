@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ init()
+comment1.params=g
+comment1.target=void\ update(java.awt.Graphics)
+comment2.params=pic\ x\ y\ mult
+comment2.target=void\ drawPicMult(int[][],\ int,\ int,\ int)
+comment3.params=g
+comment3.target=void\ paint(java.awt.Graphics)
+numComments=4
